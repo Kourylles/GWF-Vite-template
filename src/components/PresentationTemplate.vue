@@ -37,6 +37,10 @@
     <a href="https://github.com/prettier" target="_blank">
       <q-btn color="teal" text-color="white" label="Prettier" />
     </a>
+    <a href="https://github.com/eslint" target="_blank">
+      <q-btn color="teal" text-color="white" label="ESLint" />
+    </a>
+
   </div>
 
   <div class="q-ma-xl">
