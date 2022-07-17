@@ -3,15 +3,12 @@
  *              IMPORTS                 *
  * **************************************/
 // Components
-import PresentationTemplate from '@/components/PresentationTemplate.vue'
-
+import PresentationTemplate from "@/components/PresentationTemplate.vue";
 </script>
 
-<template >
+<template>
   <div>
     <Presentation-Template />
   </div>
 </template>
-<style scoped>
-  
-</style>
+<style scoped></style>

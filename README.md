@@ -4,16 +4,20 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 # Utilisation du template
-1. Récupérer le template
+
+### Récupérer le template
+
+> Cela va créer un dossier "nom-du-ptojet"\*
+
 `npx degit Kourylles/GWF-Vite template [nom-du-projet]`
 
-Cela va créer un dossier `nom-du-projet` et cloner le repository.
+### Installer les dépendances
 
-2. Installer les dépendances
 `yarn`
 
-3. Lancer la serveur de developpement
+### Lancer le serveur de développement
+
 `yarn dev`

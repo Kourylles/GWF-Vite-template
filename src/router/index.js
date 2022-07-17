@@ -2,9 +2,9 @@
  *              IMPORTS                 *
  * **************************************/
 //VUE-ROUTER
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHistory } from "vue-router";
 //FICHIER DES ROUTES
-import routes from '@/router/routes.js';
+import routes from "@/router/routes.js";
 
 /***** CREATION DU ROUTER *****/
 const router = createRouter({

@@ -2,19 +2,19 @@
  *              IMPORTS                 *
  * **************************************/
 //VUE3
-import { createApp } from 'vue';
+import { createApp } from "vue";
 //APPLICATION
-import App from './App.vue';
+import App from "./App.vue";
 //VUE-ROUTER
-import router from '@/router';
+import router from "@/router";
 //PINIA
-import { createPinia } from 'pinia';
+import { createPinia } from "pinia";
 //QUASAR
-import { Quasar } from 'quasar';
+import { Quasar } from "quasar";
 //QUASAR-ICONS
-import '@quasar/extras/material-icons/material-icons.css';
+import "@quasar/extras/material-icons/material-icons.css";
 //QUASAR-CSS
-import 'quasar/src/css/index.sass';
+import "quasar/src/css/index.sass";
 
 /****************************************
  *              CREATION                *
@@ -28,8 +28,4 @@ const app = createApp(App);
  *                DE                    *
  *          L'APPLICATION               *
  * **************************************/
-app
-  .use(router)
-  .use(createPinia())
-  .use(Quasar)
-  .mount('#app');
+app.use(router).use(createPinia()).use(Quasar).mount("#app");
