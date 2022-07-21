@@ -12,7 +12,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 > Cela va créer un dossier "nom-du-ptojet"\*
 
-`npx degit Kourylles/GWF-Vite template [nom-du-projet]`
+`npx degit Kourylles/GWF-Vite-template [nom-du-projet]`
 
 ### Installer les dépendances
 
