@@ -1,0 +1,8 @@
+[
+  { "nom" : "nom1", 
+    "prenom" : "prenom1"
+  },
+  { "nom" : "nom2", 
+    "prenom" : "prenom2"
+  }
+]
